@@ -1,1 +1,0 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ac8b5e15-d8df-45eb-bd06-ca22e7769bbc/deploy-status)](https://app.netlify.com/sites/sarahpungitore/deploys)ry
